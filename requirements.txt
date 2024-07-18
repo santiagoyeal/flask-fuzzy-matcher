@@ -1,0 +1,6 @@
+flask
+pandas
+fuzzywuzzy
+python-Levenshtein
+openpyxl 
+xlsxwriter

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Resultados de la comparación</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .container {
+      margin-top: 50px;
+    }
+    .card {
+      border: 1px solid #007bff;
+    }
+    .card-header {
+      background-color: #007bff;
+      color: white;
+    }
+    .card-title {
+      font-size: 1.5rem;
+    }
+    table.data {
+      width: 100%;
+      margin-bottom: 1rem;
+      color: #212529;
+      border-collapse: collapse;
+    }
+    table.data th,
+    table.data td {
+      padding: 0.75rem;
+      vertical-align: top;
+      border-top: 1px solid #dee2e6;
+    }
+    table.data thead th {
+      vertical-align: bottom;
+      border-bottom: 2px solid #dee2e6;
+    }
+    table.data tbody + tbody {
+      border-top: 2px solid #dee2e6;
+    }
+    table.data.table-hover tbody tr:hover {
+      color: #212529;
+      background-color: rgba(0, 123, 255, 0.075);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center mb-5">Resultados de la comparación</h1>
+    
+    <!-- Estadísticas de Coincidencias y Tiempo de Ejecución -->
+    <div class="card mb-4">
+      <div class="card-header">
+        <h2 class="card-title">Estadísticas de coincidencias</h2>
+      </div>
+      <div class="card-body">
+        <p>Total de coincidencias encontradas: {{ total_coincidencias }}</p>
+        <p>Coincidencias con campo Cuenta / CLABE asignado: {{ coincidencias_con_descripcion }}</p>
+        <p>Tiempo de ejecución: {{ processing_time }} segundos</p>
+      </div>
+    </div>
+
+    <!-- Resultados de la Comparación -->
+    {% for table in tables %}
+    <div class="card mb-4">
+      <div class="card-header">
+        <h2 class="card-title">{{ titles[loop.index0] }}</h2>
+      </div>
+      <div class="card-body">
+        {{ table|safe }}
+      </div>
+    </div>
+    {% endfor %}
+    
+    <div class="text-center">
+      <a href="/" class="btn btn-primary mt-3">Subir nuevos archivos</a>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>

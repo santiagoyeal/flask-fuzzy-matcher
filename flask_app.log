@@ -1,0 +1,264 @@
+2024-07-17 17:33:29,759 WARNING  * Debugger is active!
+2024-07-17 17:33:29,760 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:33:40,736 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 17:33:40,737 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 17:33:40,739 INFO  * Restarting with stat
+2024-07-17 17:33:41,751 WARNING  * Debugger is active!
+2024-07-17 17:33:41,753 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:33:46,483 INFO 172.21.0.1 - - [17/Jul/2024 17:33:46] "GET / HTTP/1.1" 200 -
+2024-07-17 17:36:04,470 INFO Tiempo de procesamiento: 129.97575521469116 segundos
+2024-07-17 17:36:04,528 INFO 172.21.0.1 - - [17/Jul/2024 17:36:04] "POST /compare HTTP/1.1" 200 -
+2024-07-17 17:42:12,914 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 17:42:13,389 INFO  * Restarting with stat
+2024-07-17 17:42:15,201 WARNING  * Debugger is active!
+2024-07-17 17:42:15,203 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:42:23,571 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 17:42:23,571 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 17:42:23,573 INFO  * Restarting with stat
+2024-07-17 17:42:24,758 WARNING  * Debugger is active!
+2024-07-17 17:42:24,760 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:42:29,006 INFO 172.21.0.1 - - [17/Jul/2024 17:42:29] "GET / HTTP/1.1" 200 -
+2024-07-17 17:44:38,425 INFO Tiempo de procesamiento: 120.34327173233032 segundos
+2024-07-17 17:44:38,489 INFO 172.21.0.1 - - [17/Jul/2024 17:44:38] "POST /compare HTTP/1.1" 200 -
+2024-07-17 17:47:07,708 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 17:47:07,895 INFO  * Restarting with stat
+2024-07-17 17:47:09,996 WARNING  * Debugger is active!
+2024-07-17 17:47:09,997 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:47:35,703 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 17:47:35,704 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 17:47:35,706 INFO  * Restarting with stat
+2024-07-17 17:47:36,971 WARNING  * Debugger is active!
+2024-07-17 17:47:36,973 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:47:38,433 INFO 172.21.0.1 - - [17/Jul/2024 17:47:38] "GET / HTTP/1.1" 200 -
+2024-07-17 17:50:13,048 INFO Tiempo de procesamiento: 111.53482818603516 segundos
+2024-07-17 17:50:13,105 INFO 172.21.0.1 - - [17/Jul/2024 17:50:13] "POST /compare HTTP/1.1" 200 -
+2024-07-17 17:56:54,520 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 17:56:54,612 INFO  * Restarting with stat
+2024-07-17 17:56:55,597 WARNING  * Debugger is active!
+2024-07-17 17:56:55,598 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:57:06,670 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 17:57:06,670 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 17:57:06,673 INFO  * Restarting with stat
+2024-07-17 17:57:07,949 WARNING  * Debugger is active!
+2024-07-17 17:57:07,950 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:57:08,564 INFO 172.21.0.1 - - [17/Jul/2024 17:57:08] "GET / HTTP/1.1" 200 -
+2024-07-17 17:58:18,218 INFO Tiempo de procesamiento: 62.29930377006531 segundos
+2024-07-17 17:58:18,274 INFO 172.21.0.1 - - [17/Jul/2024 17:58:18] "POST /compare HTTP/1.1" 200 -
+2024-07-17 17:58:26,343 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 17:58:26,453 INFO  * Restarting with stat
+2024-07-17 17:58:28,551 WARNING  * Debugger is active!
+2024-07-17 17:58:28,552 INFO  * Debugger PIN: 121-767-703
+2024-07-17 17:58:33,155 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 17:58:33,155 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 17:58:33,157 INFO  * Restarting with stat
+2024-07-17 17:58:34,297 WARNING  * Debugger is active!
+2024-07-17 17:58:34,299 INFO  * Debugger PIN: 121-767-703
+2024-07-17 18:00:59,540 INFO Tiempo de procesamiento: 117.95983576774597 segundos
+2024-07-17 18:00:59,612 INFO 172.21.0.1 - - [17/Jul/2024 18:00:59] "POST /compare HTTP/1.1" 200 -
+2024-07-17 18:37:15,570 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 18:37:15,713 INFO  * Restarting with stat
+2024-07-17 18:37:19,252 WARNING  * Debugger is active!
+2024-07-17 18:37:19,254 INFO  * Debugger PIN: 121-767-703
+2024-07-17 18:40:46,798 INFO Tiempo de procesamiento: 115.52368807792664 segundos
+2024-07-17 18:40:46,859 INFO 172.21.0.1 - - [17/Jul/2024 18:40:46] "POST /compare HTTP/1.1" 200 -
+2024-07-17 18:42:48,245 INFO 172.21.0.1 - - [17/Jul/2024 18:42:48] "GET / HTTP/1.1" 200 -
+2024-07-17 18:43:02,469 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 18:43:02,470 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 18:43:02,472 INFO  * Restarting with stat
+2024-07-17 18:43:03,404 WARNING  * Debugger is active!
+2024-07-17 18:43:03,405 INFO  * Debugger PIN: 121-767-703
+2024-07-17 18:45:19,715 INFO Tiempo de procesamiento: 123.35158705711365 segundos
+2024-07-17 18:45:19,774 INFO 172.21.0.1 - - [17/Jul/2024 18:45:19] "POST /compare HTTP/1.1" 200 -
+2024-07-17 19:12:08,538 INFO 172.21.0.1 - - [17/Jul/2024 19:12:08] "GET / HTTP/1.1" 200 -
+2024-07-17 19:14:54,439 INFO Tiempo de procesamiento: 192.45290446281433 segundos
+2024-07-17 19:14:54,548 INFO 172.21.0.1 - - [17/Jul/2024 19:14:54] "POST /compare HTTP/1.1" 200 -
+2024-07-17 19:15:38,942 INFO Tiempo de procesamiento: 195.49237489700317 segundos
+2024-07-17 19:15:38,981 INFO 172.21.0.1 - - [17/Jul/2024 19:15:38] "POST /compare HTTP/1.1" 200 -
+2024-07-17 19:19:31,257 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 19:19:31,374 INFO  * Restarting with stat
+2024-07-17 19:19:32,970 WARNING  * Debugger is active!
+2024-07-17 19:19:32,972 INFO  * Debugger PIN: 121-767-703
+2024-07-17 19:19:42,693 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 19:19:42,783 INFO  * Restarting with stat
+2024-07-17 19:19:44,413 WARNING  * Debugger is active!
+2024-07-17 19:19:44,415 INFO  * Debugger PIN: 121-767-703
+2024-07-17 19:19:48,791 INFO 172.21.0.1 - - [17/Jul/2024 19:19:48] "GET / HTTP/1.1" 200 -
+2024-07-17 19:22:13,850 INFO 172.21.0.1 - - [17/Jul/2024 19:22:13] "GET / HTTP/1.1" 200 -
+2024-07-17 19:24:12,079 INFO Tiempo de procesamiento: 174.254390001297 segundos
+2024-07-17 19:24:12,251 INFO 172.21.0.1 - - [17/Jul/2024 19:24:12] "POST /compare HTTP/1.1" 200 -
+2024-07-17 19:25:11,768 INFO Tiempo de procesamiento: 168.0055956840515 segundos
+2024-07-17 19:25:11,807 INFO 172.21.0.1 - - [17/Jul/2024 19:25:11] "POST /compare HTTP/1.1" 200 -
+2024-07-17 19:32:20,237 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 19:32:20,408 INFO  * Restarting with stat
+2024-07-17 19:32:22,808 WARNING  * Debugger is active!
+2024-07-17 19:32:22,810 INFO  * Debugger PIN: 121-767-703
+2024-07-17 19:32:33,844 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 19:32:33,845 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 19:32:33,848 INFO  * Restarting with stat
+2024-07-17 19:32:34,810 WARNING  * Debugger is active!
+2024-07-17 19:32:34,811 INFO  * Debugger PIN: 121-767-703
+2024-07-17 19:32:41,366 INFO 172.21.0.1 - - [17/Jul/2024 19:32:41] "GET / HTTP/1.1" 200 -
+2024-07-17 19:33:43,045 INFO Tiempo de procesamiento: 53.52 segundos
+2024-07-17 19:33:43,128 INFO 172.21.0.1 - - [17/Jul/2024 19:33:43] "POST /compare HTTP/1.1" 200 -
+2024-07-17 22:36:37,606 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 22:36:38,600 INFO  * Restarting with stat
+2024-07-17 22:36:40,565 WARNING  * Debugger is active!
+2024-07-17 22:36:40,572 INFO  * Debugger PIN: 121-767-703
+2024-07-17 22:37:40,993 INFO Tiempo de procesamiento: 55.18 segundos
+2024-07-17 22:37:41,072 INFO 172.21.0.1 - - [17/Jul/2024 22:37:41] "POST /compare HTTP/1.1" 200 -
+2024-07-17 22:40:06,788 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 22:40:06,923 INFO  * Restarting with stat
+2024-07-17 22:40:08,385 WARNING  * Debugger is active!
+2024-07-17 22:40:08,387 INFO  * Debugger PIN: 121-767-703
+2024-07-17 22:40:32,433 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 22:40:32,580 INFO  * Restarting with stat
+2024-07-17 22:44:36,685 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 22:44:36,686 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 22:44:36,688 INFO  * Restarting with stat
+2024-07-17 22:44:37,787 WARNING  * Debugger is active!
+2024-07-17 22:44:37,789 INFO  * Debugger PIN: 121-767-703
+2024-07-17 22:44:44,421 INFO 172.21.0.1 - - [17/Jul/2024 22:44:44] "GET / HTTP/1.1" 200 -
+2024-07-17 22:45:52,398 INFO Tiempo de procesamiento: 57.72 segundos
+2024-07-17 22:45:52,487 INFO 172.21.0.1 - - [17/Jul/2024 22:45:52] "POST /compare HTTP/1.1" 200 -
+2024-07-17 22:46:44,498 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 22:46:44,622 INFO  * Restarting with stat
+2024-07-17 22:46:46,096 WARNING  * Debugger is active!
+2024-07-17 22:46:46,097 INFO  * Debugger PIN: 121-767-703
+2024-07-17 22:46:51,269 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 22:46:51,269 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 22:46:51,271 INFO  * Restarting with stat
+2024-07-17 22:46:52,278 WARNING  * Debugger is active!
+2024-07-17 22:46:52,279 INFO  * Debugger PIN: 121-767-703
+2024-07-17 22:46:54,135 INFO 172.21.0.1 - - [17/Jul/2024 22:46:54] "GET / HTTP/1.1" 200 -
+2024-07-17 22:47:58,857 INFO Tiempo de procesamiento: 50.78 segundos
+2024-07-17 22:47:58,916 INFO 172.21.0.1 - - [17/Jul/2024 22:47:58] "POST /compare HTTP/1.1" 200 -
+2024-07-17 22:58:45,500 INFO 172.21.0.1 - - [17/Jul/2024 22:58:45] "GET / HTTP/1.1" 200 -
+2024-07-17 22:59:49,485 INFO Tiempo de procesamiento: 51.34 segundos
+2024-07-17 22:59:49,530 INFO 172.21.0.1 - - [17/Jul/2024 22:59:49] "POST /compare HTTP/1.1" 200 -
+2024-07-17 23:01:39,942 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 23:01:40,119 INFO  * Restarting with stat
+2024-07-17 23:01:41,540 WARNING  * Debugger is active!
+2024-07-17 23:01:41,541 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:01:46,586 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 23:01:46,587 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 23:01:46,589 INFO  * Restarting with stat
+2024-07-17 23:01:47,619 WARNING  * Debugger is active!
+2024-07-17 23:01:47,620 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:02:40,114 INFO Tiempo de procesamiento: 51.38 segundos
+2024-07-17 23:02:40,317 INFO 172.21.0.1 - - [17/Jul/2024 23:02:40] "POST /compare HTTP/1.1" 200 -
+2024-07-17 23:06:59,339 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 23:06:59,527 INFO  * Restarting with stat
+2024-07-17 23:07:02,640 WARNING  * Debugger is active!
+2024-07-17 23:07:02,641 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:07:52,658 INFO 172.21.0.1 - - [17/Jul/2024 23:07:52] "GET / HTTP/1.1" 200 -
+2024-07-17 23:08:09,926 INFO Tiempo de procesamiento: 55.10 segundos
+2024-07-17 23:08:10,385 INFO 172.21.0.1 - - [17/Jul/2024 23:08:10] "[35m[1mPOST /compare HTTP/1.1[0m" 500 -
+2024-07-17 23:08:57,843 INFO Tiempo de procesamiento: 56.60 segundos
+2024-07-17 23:08:57,926 INFO 172.21.0.1 - - [17/Jul/2024 23:08:57] "[35m[1mPOST /compare HTTP/1.1[0m" 500 -
+2024-07-17 23:08:57,987 INFO 172.21.0.1 - - [17/Jul/2024 23:08:57] "GET /compare?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-07-17 23:08:57,998 INFO 172.21.0.1 - - [17/Jul/2024 23:08:57] "GET /compare?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-07-17 23:08:58,116 INFO 172.21.0.1 - - [17/Jul/2024 23:08:58] "GET /compare?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-07-17 23:08:58,436 INFO 172.21.0.1 - - [17/Jul/2024 23:08:58] "[36mGET /compare?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-17 23:09:58,848 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 23:09:58,986 INFO  * Restarting with stat
+2024-07-17 23:10:00,502 WARNING  * Debugger is active!
+2024-07-17 23:10:00,503 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:10:06,128 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 23:10:06,129 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 23:10:06,132 INFO  * Restarting with stat
+2024-07-17 23:10:07,200 WARNING  * Debugger is active!
+2024-07-17 23:10:07,210 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:10:12,652 INFO 172.21.0.1 - - [17/Jul/2024 23:10:12] "GET / HTTP/1.1" 200 -
+2024-07-17 23:11:13,647 INFO Tiempo de procesamiento: 50.82 segundos
+2024-07-17 23:11:13,788 INFO 172.21.0.1 - - [17/Jul/2024 23:11:13] "[35m[1mPOST /compare HTTP/1.1[0m" 500 -
+2024-07-17 23:11:13,848 INFO 172.21.0.1 - - [17/Jul/2024 23:11:13] "[36mGET /compare?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-17 23:11:13,853 INFO 172.21.0.1 - - [17/Jul/2024 23:11:13] "[36mGET /compare?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-17 23:11:14,013 INFO 172.21.0.1 - - [17/Jul/2024 23:11:14] "[36mGET /compare?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-17 23:11:27,340 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 23:11:27,446 INFO  * Restarting with stat
+2024-07-17 23:11:29,351 WARNING  * Debugger is active!
+2024-07-17 23:11:29,352 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:12:27,432 INFO Tiempo de procesamiento: 48.38 segundos
+2024-07-17 23:12:27,534 INFO 172.21.0.1 - - [17/Jul/2024 23:12:27] "[35m[1mPOST /compare HTTP/1.1[0m" 500 -
+2024-07-17 23:12:27,629 INFO 172.21.0.1 - - [17/Jul/2024 23:12:27] "[36mGET /compare?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-17 23:12:27,637 INFO 172.21.0.1 - - [17/Jul/2024 23:12:27] "[36mGET /compare?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-17 23:12:27,785 INFO 172.21.0.1 - - [17/Jul/2024 23:12:27] "[36mGET /compare?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-17 23:12:42,952 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 23:12:43,047 INFO  * Restarting with stat
+2024-07-17 23:12:44,325 WARNING  * Debugger is active!
+2024-07-17 23:12:44,327 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:12:58,072 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 23:12:58,073 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 23:12:58,076 INFO  * Restarting with stat
+2024-07-17 23:13:00,005 WARNING  * Debugger is active!
+2024-07-17 23:13:00,008 INFO  * Debugger PIN: 121-767-703
+2024-07-17 23:14:01,099 INFO Tiempo de procesamiento: 56.39 segundos
+2024-07-17 23:14:01,199 INFO 172.21.0.1 - - [17/Jul/2024 23:14:01] "[35m[1mPOST /compare HTTP/1.1[0m" 500 -
+2024-07-17 23:14:01,268 INFO 172.21.0.1 - - [17/Jul/2024 23:14:01] "[36mGET /compare?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-17 23:14:01,272 INFO 172.21.0.1 - - [17/Jul/2024 23:14:01] "[36mGET /compare?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-17 23:14:01,382 INFO 172.21.0.1 - - [17/Jul/2024 23:14:01] "[36mGET /compare?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-17 23:15:36,335 INFO Tiempo de procesamiento: 61.24 segundos
+2024-07-17 23:15:36,415 INFO 172.21.0.1 - - [17/Jul/2024 23:15:36] "POST /compare HTTP/1.1" 200 -
+2024-07-17 23:18:26,388 INFO  * Detected change in '/app/app.py', reloading
+2024-07-17 23:18:26,596 INFO  * Restarting with stat
+2024-07-17 23:19:42,540 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 23:19:42,540 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 23:19:42,543 INFO  * Restarting with stat
+2024-07-17 23:19:45,315 WARNING  * Debugger is active!
+2024-07-17 23:19:45,316 INFO  * Debugger PIN: 145-954-667
+2024-07-17 23:19:45,454 INFO 172.21.0.1 - - [17/Jul/2024 23:19:45] "GET / HTTP/1.1" 200 -
+2024-07-17 23:21:46,787 INFO 172.21.0.1 - - [17/Jul/2024 23:21:46] "[35m[1mPOST /compare HTTP/1.1[0m" 500 -
+2024-07-17 23:21:46,843 INFO 172.21.0.1 - - [17/Jul/2024 23:21:46] "[36mGET /compare?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-17 23:21:46,866 INFO 172.21.0.1 - - [17/Jul/2024 23:21:46] "[36mGET /compare?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-17 23:21:47,076 INFO 172.21.0.1 - - [17/Jul/2024 23:21:47] "[36mGET /compare?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-17 23:21:47,281 INFO 172.21.0.1 - - [17/Jul/2024 23:21:47] "[36mGET /compare?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-17 23:23:50,620 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.21.0.2:5000
+2024-07-17 23:23:50,621 INFO [33mPress CTRL+C to quit[0m
+2024-07-17 23:23:50,625 INFO  * Restarting with stat
+2024-07-17 23:23:53,356 WARNING  * Debugger is active!
+2024-07-17 23:23:53,357 INFO  * Debugger PIN: 181-264-517
+2024-07-17 23:24:05,152 INFO 172.21.0.1 - - [17/Jul/2024 23:24:05] "GET / HTTP/1.1" 200 -
+2024-07-17 23:25:41,658 INFO Tiempo de procesamiento: 85.31 segundos
+2024-07-17 23:25:41,712 INFO 172.21.0.1 - - [17/Jul/2024 23:25:41] "POST /compare HTTP/1.1" 200 -
