@@ -55,17 +55,20 @@ def compare_files():
         if match:
             matched_row = df2[df2['Descripción_normalized'] == match].iloc[0]
             descripcion = matched_row.iloc[2]
+            banco = matched_row.iloc[5]
             coincidencias_con_descripcion += bool(descripcion)
             matches.append({
                 'ID': row.iloc[1],
                 'partner_name': row.iloc[2],
-                'Descripción': descripcion
+                'Descripción': descripcion,
+                'Banco': banco
             })
         else:
             matches.append({
                 'ID': row.iloc[1],
                 'partner_name': row.iloc[2],
-                'Descripción': ''
+                'Descripción': '',
+                'Banco': ''
             })
 
     if matches:
